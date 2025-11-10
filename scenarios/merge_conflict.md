@@ -68,6 +68,3 @@ cd ..
 rmdir /s /q merge-conflict-demo
 rmdir /s /q .git
 ```
-
-
-
