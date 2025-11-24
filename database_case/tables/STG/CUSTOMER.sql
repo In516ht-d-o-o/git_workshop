@@ -1,0 +1,6 @@
+CREATE OR REPLACE TABLE STG_CUSTOMER AS
+SELECT
+    customer_name,
+    city,
+    country
+FROM RAW_CUSTOMER;
